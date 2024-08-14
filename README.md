@@ -1,6 +1,6 @@
 # Exercícios de JavaScript
 
-Este repositório contém exercícios de programação em JavaScript. Cada exercício é implementado em um arquivo JavaScript separado. Abaixo estão descritos os exercícios concluídos e os respectivos códigos.
+Este repositório contém exercícios de programação em JavaScript. Cada exercício é implementado em um arquivo JavaScript separado.
 
 ## Instruções para Configuração e Execução Local
 
